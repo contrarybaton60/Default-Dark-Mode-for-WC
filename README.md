@@ -4,7 +4,7 @@
     <h2 align="center">A dark mode resource pack specifically made for the William's Console modpack.</h2>
 </p>
 
-
+# Please note that is repository is deprecated.
 
 ## Mod Support
 
